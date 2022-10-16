@@ -15,9 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinit-khandal-512b17202" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinit-khandal-512b17202" height="30" width="40" /></a>
-<a href="https://twitter.com/Vinit717" target="blank"><img align="center" src= <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 72">
-  <path d="M41 31h-9V19c0-1.14-.647-2.183-1.668-2.688-1.022-.507-2.243-.39-3.15.302l-21 16C5.438 33.18 5 34.064 5 35s.437 1.82 1.182 2.387l21 16c.533.405 1.174.613 1.82.613.453 0 .908-.103 1.33-.312C31.354 53.183 32 52.14 32 51V39h9c5.514 0 10 4.486 10 10 0 2.21 1.79 4 4 4s4-1.79 4-4c0-9.925-8.075-18-18-18z"/>
-</svg> alt="vinit-khandal-512b17202" height="30" width="40" /></a>
+<a href="https://twitter.com/Vinit717" target="_blank"><img align="center" src= "https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="vinit-khandal-512b17202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
