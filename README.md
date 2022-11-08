@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **HTML , CSS , Javascript**
 
-- 🌱 I’m currently learning **Python , Dsa , react native**
+- 🌱 I’m currently learning **Python , Dsa , react , javascript**
 
 - 💬 Ask me about **Pyhton , Data structures, javascript**
 
