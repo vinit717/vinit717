@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit717&label=Profile%20views&color=0e75b6&style=flat" alt="vinit717" /> </p>
 
-- 🔭 I’m currently working on **HTML , CSS , Javascript**
+- 🔭 I’m currently working on **HTML, CSS, SCSS, Javascript, React, Tailwind**
 
-- 🌱 I’m currently learning **Python , Dsa , react , javascript**
+- 🌱 I’m currently learning **Python, Dsa, React, Javascript**
 
-- 💬 Ask me about **Pyhton , Data structures, javascript**
+- 💬 Ask me about **Pyhton, Data structures, Frontend**
 
 - 📫 How to reach me **vinit224488@gmail.com**
 
