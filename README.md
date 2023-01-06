@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **HTML, CSS, SCSS, Javascript, React, Tailwind**
 
-- 🌱 I’m currently learning **Python, Dsa, React, Javascript**
+- 🌱 I’m currently learning **Python, DSA, React, Javascript, Jest**
 
 - 💬 Ask me about **Pyhton, Data structures, Frontend**
 
