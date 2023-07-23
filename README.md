@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **SCSS, Javascript, ReactJs, Tailwind, Testing, EmberJs**
 
-- 🌱 I’m currently learning **Python, DSA, React, Javascript, Jest**
+- 🌱 I’m currently learning **Python, DSA,**
 
-- 💬 Ask me about **Pyhton, Data structures, Frontend**
+- 💬 Ask me about **Python, Data structures, Frontend**
 
 - 📫 How to reach me  **vinit224488@gmail.com**
 
