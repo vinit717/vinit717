@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit717&label=Profile%20views&color=0e75b6&style=flat" alt="vinit717" /> </p>
 
-- 🔭 I’m currently working on **SCSS, Javascript, ReactJs, Tailwind, Testing, EmberJs**
+- 🔭 I’m currently working on **React, Next, Typescript, Nodejs, and Firebase**
 
-- 🌱 I’m currently learning **Python, DSA,**
+- 🌱 I’m currently learning **AWS, DSA **
 
-- 💬 Ask me about **Python, Data structures, Frontend**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me  **vinit224488@gmail.com**
 
