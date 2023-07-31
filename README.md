@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React, Next, Typescript, Nodejs, and Firebase**
 
-- 🌱 I’m currently learning **AWS, DSA, React Native**
+- 🌱 I’m currently learning **AWS, DSA, React Native, Ember JS**
 
 - 💬 Ask me about **Web Development**
 
