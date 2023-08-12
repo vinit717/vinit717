@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vinit</h1>
+<h1 align="center">Hi 👋, I'm Vinit</h1>
 <h3 align="center">A programmer and web developer from india</h3>
 <img align="right" alt="Coding" width="400" src="https://creativelogo.in/wp-content/uploads/2020/01/1-1.gif">
 
