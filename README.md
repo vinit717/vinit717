@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vinit</h1>
 <h3 align="center">A programmer and web developer from india</h3>
-<img align="right" alt="Coding" width="400" src="https://creativelogo.in/wp-content/uploads/2020/01/1-1.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://creativelogo.in/wp-content/uploads/2020/01/1-1.gif"> -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding" width="400"/> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit717&label=Profile%20views&color=0e75b6&style=flat" alt="vinit717" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit717&label=Profile%20views&color=0e75b6&style=flat" alt="vinit717" /> 
+  <br><br>
 - 🔭 I’m currently working on **React, Next, Typescript, NodeJs, and Firebase**
 
 - 🌱 I’m currently learning **AWS, DSA, React Native, EmberJS**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** 
 
 - 📫 How to reach me  **vinit224488@gmail.com**
+
+  </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
