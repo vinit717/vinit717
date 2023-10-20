@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit717&label=Profile%20views&color=0e75b6&style=flat" alt="vinit717" /> 
   <br><br>
   
-- 🔭 Currently working on **React, Next, Typescript, NodeJs, Go, PostgreSQL and Firebase**
+- 🔭 Currently working on **React, Next, Typescript, NodeJs, Go, PostgreSQL and Firebase**.
+- 
 - 
 
 - 🌱 Currently learning **AWS, DSA, React Native, EmberJS**
