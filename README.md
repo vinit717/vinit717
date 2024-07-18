@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development**.
 
-- 📫 How to reach me  **vinit224488@gmail.com**.
+- 📫 How to reach me  **vinitkhandal.dev@gmail.com**.
 
   </p>
 
