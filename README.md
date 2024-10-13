@@ -8,7 +8,7 @@
   
 - 🔭 Currently working on **React, Next, Typescript, NodeJs, Go, PostgreSQL and FireStore**.
   
-- 🌱 Currently learning **AWS, EmberJS, ElectronJS, Docker**.
+- 🌱 Currently learning **AWS, ElectronJS, Docker**.
 
 - 💬 Ask me about **Web Development**.
 
